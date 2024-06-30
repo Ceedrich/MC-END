@@ -35,3 +35,8 @@ Those starships will create two battles in the end dimension, one in the [republ
 | Y-Wing                           | l: 23m, w: 16m         |                |         | ![Image](https://static.wikia.nocookie.net/starwars/images/8/81/Y-wing.png/revision/latest?cb=20161110013308)                         |
 | B-Wing                           | l: 17m, w: 3m, h: 7.5m |                |         | ![Image](https://static.wikia.nocookie.net/starwars/images/9/9f/B-wing-Squadronds.png/revision/latest?cb=20210722003428)              |
 | Imperial Shuttle                 | l: 20m                 |                |         | ![Image](https://static.wikia.nocookie.net/starwars/images/6/6d/LambdaShuttle-Fathead.png/revision/latest?cb=20230802043430)          |
+
+## Lord of the Rings
+
+- Hobbit Caves
+- Sauron's tower

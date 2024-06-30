@@ -1,1 +1,2 @@
-# MC-END
+# Mc Ideas
+Just a repository to collect Ideas of what to build on our private minecraft server...

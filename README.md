@@ -2,6 +2,14 @@
 
 Just a repository to collect Ideas of what to build on our private minecraft server...
 
+## Theme Park
+
+- Labyrinth
+- [Shooting game](./ThemePark/Shooter.md)
+- Roller Coaster
+- [Ice Game](./ThemePark/IceGame.md)
+- Cart Game
+
 ## Star Wars
 
 Those starships will create two battles in the end dimension, one in the [republic era](#republic-era) and one in the [imperial era](#imperial-era).

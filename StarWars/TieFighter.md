@@ -61,3 +61,6 @@ Top View:
 ⌞  ■ ■                     ■ ■  ⌟
    ⌞ ⌟ ⌞ ⌟ ⌞ ⌟ ⌞ ⌟ ⌞ ⌟ ⌞ ⌟ ⌞ ⌟
 ```
+
+Example in Minecraft:
+![Image](../assets/TIE.png)
